@@ -1,5 +1,8 @@
 # URL Shortener Application
 
+![image](https://github.com/user-attachments/assets/805b4105-18fa-47f6-868d-dc0ec5b3993c)
+![image](https://github.com/user-attachments/assets/34127b22-19b8-4fc9-bb72-f4427ca9f19f)
+
 Easy-to-use URL Shortener web application built with React and Material UI.
 
 ## What does it do?
